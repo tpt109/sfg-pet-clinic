@@ -1,4 +1,4 @@
-package com.figpop.sfgpetclinic.model;
+package sfgpetclinic.model;
 
 public class PetType {
     private String name;
