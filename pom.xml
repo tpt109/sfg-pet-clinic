@@ -41,7 +41,7 @@
     </build>
     <scm>
         <developerConnection>scm:git:git@github.com:tpt109/sfg-pet-clinic.git</developerConnection>
-        <tag>sfg-pet-clinic-0.0.2</tag>
+        <tag>sfg-pet-clinic-0.0.3</tag>
   </scm>
 
 </project>
